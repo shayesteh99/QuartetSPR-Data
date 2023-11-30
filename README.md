@@ -1,2 +1,2 @@
 # QuartetSPR-Data
-The data for the Quartet-SPR project
+The data for the Quartet-SPR paper is available here.
